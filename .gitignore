@@ -1,4 +1,3 @@
-.backup.log
 cache/
 *.log
 *.pid
